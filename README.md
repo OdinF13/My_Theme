@@ -2,7 +2,7 @@
 This Is My Kali  Llinux Theme With Shell_theme , GTK3_theme , Icon e.t.c
 
 
-**Install**
+**Fast-Installation**
 ```
 cd Desktop/ && git clone https://github.com/OdinF13/My_Theme.git && cd My_Theme/ && chmod +x install.sh && ./install.sh
 
