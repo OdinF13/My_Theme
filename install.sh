@@ -373,7 +373,7 @@ else
 fi ## check os end
 
 
-# If U See This
+# Special thank to OT Fluge
 
 
 
