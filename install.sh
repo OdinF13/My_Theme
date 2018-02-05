@@ -286,9 +286,9 @@ sleep 1
 if [ $username == "root" ]; then
     
 
-cd ~/Desktop/Theme
+cd ~/
 wget https://i.imgsafe.org/12/12450da992.jpeg 
-gsettings set org.gnome.desktop.background picture-uri 'file:///root/Desktop/Theme/12450da992.jpeg'
+gsettings set org.gnome.desktop.background picture-uri 'file:///root/12450da992.jpeg'
 
 
 
