@@ -323,35 +323,6 @@ printf ${IGreen}"　(  ${NC}${RED}◥◣${IGreen} _ ${RED}◢◤${NC}${IGreen}) 
 printf ${IGreen}"＿(__つ/￣￣/＿                ${Blue}As Simple As Possible${NC}\n"
 printf ${IGreen}"　　＼/    /${NC}\n"
 
-printf " ${Blue}Downlaoding Cursors${NC}...\n\n"
-
-sleep 2
-cd /usr/share/icons/
-
-mkdir tempob
-cd tempob
-git clone https://github.com/OdinF13/Cursor.git
-cd Cursor
-unzip Green-Cursor.zip
-mv Green-Cursor ../../
-
-
-
-cd ~
-cd /usr/share/icons/
-
-
-rm -rf tempob
-
-
-
-
-
-
-
-
-gsettings set  org.gnome.desktop.interface cursor-theme 'Green-Cursor'
-
 
 clear
 printf ${NC}"     ${UPurple}_______${NC}\n"
