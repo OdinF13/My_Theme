@@ -337,6 +337,12 @@ printf "${Blue}=>: ${UWhite}Installation Finished....Enjoy${NC}\n"
 
 printf "${Blue}As Soon As Possible I Add New Features To This Script${NC}\n"
 
+cd ~/Desktop/
+rm -rf Theme
+rm -rf MY_Theme
+
+
+
 else 
 	printf "${Blue}=>: ${NC}If you want to install this theme use ${RED}Debian Based Os${NC}"
 
