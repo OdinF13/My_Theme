@@ -339,7 +339,7 @@ printf "${Blue}As Soon As Possible I Add New Features To This Script${NC}\n"
 
 cd ~/Desktop/
 rm -rf Theme
-rm -rf MY_Theme
+rm -rf My_Theme
 
 
 
